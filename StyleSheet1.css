@@ -1,0 +1,41 @@
+﻿*{
+    margin: 0;
+}
+
+.contenedor {
+    
+    background-color: cadetblue;
+    width: 100vw;
+    height: 100vh;
+    text-align:center;
+}
+img {
+   
+  width: 200px;
+  height:200px;
+  position:fixed;
+    border-radius: 50%;
+    left: 590px;
+    top: 200px;
+}
+
+p {
+    font-size: xx-large;
+    padding: 12%;
+    
+}
+
+
+button {
+    font-size: xx-large;
+    padding: 0.40em;
+    border-radius: 50%;
+}
+
+#yesbtn{
+transform: translate(-100%,0);
+}
+
+#nobtn{
+  position:absolute;
+}
